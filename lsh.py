@@ -1,10 +1,10 @@
-s"""
+"""
 LSH Locality Sensitive Hashing
 - indexing for nearest neighbour searches in sublinear time
 
-simple reference implementation based on
+simple tutorial implementation based on
 A. Andoni and P. Indyk, "Near-optimal hashing algorithms for approximate nearest neighbor in high dimensions"
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.3471&rep=rep1&type=pdf
+http://people.csail.mit.edu/indyk/p117-andoni.pdf
 """
 
 import random
