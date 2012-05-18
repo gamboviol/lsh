@@ -1,4 +1,4 @@
-"""
+s"""
 LSH Locality Sensitive Hashing
 - indexing for nearest neighbour searches in sublinear time
 
@@ -7,7 +7,7 @@ A. Andoni and P. Indyk, "Near-optimal hashing algorithms for approximate nearest
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.142.3471&rep=rep1&type=pdf
 """
 
-import random, types
+import random
 from collections import defaultdict
 from operator import itemgetter
 
